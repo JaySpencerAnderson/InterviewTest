@@ -1,0 +1,60 @@
+﻿Resume’ for Jay Anderson
+
+2004 through 2016 - Capital Group
+
+Most recently assigned as a developer to the settlement system mentioned below.
+
+Trading production support - currency and equity.  
+Wrote a number of reports including 3 reconciliation reports between trading and settlement systems as well as various reports requested by equity traders.  
+Have worked with FIX connectivity, configuring algorithmic trading strategies and FIX connections.  
+Wrote script to report unmatched (to an order) FIX executions and eliminate reports of certain scenarios.  
+Have suggested SQL improvements to certain poorly performing queries.  
+Earned highest rating in my 2011 review.  Received award for early adoption of Knowledge Article facility of Remedy.
+
+Forward contract order processing application (developer) - 
+Worked on interface between order processing system and compliance system.  
+Wrote entire nightly batch processing including a couple of EJB’s.  Batch reports (trade reconciliation with currency trading for instance) were written to alert support only if there were problems.  
+Wrote the initial versions of ant build.xml files for the application.  
+
+1990 to 2004 - SEI - Consulting company based in Chicago
+
+Worked 2 stints in 4 applications at Capital Group while at SEI.  
+On first stint, worked on the development of a proprietary ETL tool (C language, Sybase open server) to back-up another consultant who was ailing.  
+On second stint, wrote most of the backend for the settlement application.  
+Wrote (and tested) a Sybase open server (in C) which ran continuously in production for 7 months when first deployed.  
+Also wrote a lot of the database code (tables, indexes, stored procedures).  
+Wrote a script to generate triggers to implement auditing of data changes after over-hearing the front-end developers discuss this need.  
+Also wrote wrappers for RCS commands to implement labels to track the current state of development and to implement groups of source code (an idea from DEC’s CMS software).  
+While assigned to the settlement application, wrote the first two versions of a database activity monitoring script which Capital Group’s dbas adopted and subsequently improved quite a bit.  
+Also handled production migrations of the back end.
+
+Maintained and supported an older Capital Group application (order management) while the rewrite development effort started up.  During that time, the older application had performance problems.  Tuned a number (~100) of stored procedures to address the issues.
+
+Support for this same (older) application became the pilot for what became a separate support organization.  Eventually transitioned to support third party applications.  At the time, PowerMart (version 4) had a number of reliability problems in production.  Addressed some of them by having the Unix sys admins configure more shared memory and more semaphores on the production server.  This addressed chronic batch job failures at around 6 am.
+
+While at Capital Group circa 1997, started a lunchtime session called “Java Interest Group” which introduced Capital Group associates to Java.  While at Capital Group, presented several talks to developers (at a senior manager’s request) on scripting, database tuning, SQL tricks and the open server mentioned above.
+
+Also worked at a major bank (at the direction of a PhD economist) on an application to assess risk due to holding foreign currencies overnight (prior to the advent of the Euro).  Also worked at a major bank on an FX (cover) deal entry system.
+
+Also worked at a wholesaler, tuning the database for their warehouse management system.  Contributed one change which improved the overall performance of the entire system (as measured by a standard simulation) by 5%.
+
+1989 to 1990 - Composite Automation Equipment, Brea, CA
+
+Developed scheduling and control software for composite labeling and cutting machine.  Received 1st (and only ever awarded) monetary award for solving problem of accurate advancing of conveyor belt from one workstation to the next.  Also developed post processing program to generate machine codes for a 6 axis machine tool.
+
+1983 to 1989 - McDonnell Douglas, Long Beach, CA
+
+McDonnell Aircraft - On site at vendor (Composite Automation Equipment in Brea, CA)  Worked on manufacturing cell for the manufacture of composite parts.  Acted as system administrator for micro-VAX computer on loan to vendor.  Contributed to software including bit map algorithm for actuating vacuums to lift composite layer from surrounding material.
+
+Acoustics Department - Programmer and system administrator for DEC pdp-11 and VAX computers.  Wrote data acquisition system using HPIB (IEEE-488) bus from a Bruel and Kjaer device with stringent timing requirements.
+
+Skill Set:
+Operating Systems: Unix, Windows, VMS, RSX-11m
+
+Languages:
+Java, C, Fortran, Javascript, assembly language, shell scripts, Perl, SQL
+
+Databases:
+Sybase, Oracle
+
+Education Bachelor of Music, Northern Arizona University 1983, second major in Computer Science

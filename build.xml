@@ -1,0 +1,9 @@
+<project name="Concordance" default="compile" basedir=".">
+	<description>
+		Build file for interview question
+	</description>
+
+	<target name="compile" description="compile source">
+		<javac srcdir="${basedir}" destdir="${basedir}"/>
+	</target>
+</project>
